@@ -51,7 +51,7 @@ function ResponsiveAppBar() {
                     letterSpacing: '.3rem',
                     color: 'inherit',
                     textDecoration: 'none',
-                    }}>Board Game Handler</Typography>
+                    }}>Board Game Organizer</Typography>
 
                     <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
                         <IconButton
